@@ -99,3 +99,12 @@ form p a{
     background: #eaeaea;
     color: #555;
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 30px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+ }
